@@ -1,0 +1,8 @@
+ffmpeg
+langchain
+whisper
+streamlit
+transformers
+streamlit-chat
+streamlit-mic-recorder
+openai
